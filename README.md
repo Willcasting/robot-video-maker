@@ -4,7 +4,7 @@ Fazer o upload para o youtube com as thumbnail
 
 
 # Implementações futuras
-fazer com que o robo converta os textos para audio
+fazer com que o robo converta os textos para audio </br>
 implementar uma pagina web para coletar os dados iniciais
 
 
