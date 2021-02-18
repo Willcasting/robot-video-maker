@@ -1,0 +1,22 @@
+{
+  "name": "robot-video-maker",
+  "version": "1.0.0",
+  "description": "robô para criar vídeo automatizado com imagens obtidas da internet e adicionar um texto relacionado</br> Fazer o upload para o youtube com as thumbnail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Willcasting/robot-video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Willcasting/robot-video-maker/issues"
+  },
+  "homepage": "https://github.com/Willcasting/robot-video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
