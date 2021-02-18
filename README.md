@@ -1,5 +1,5 @@
 # robot-video-maker
-robô para criar vídeo automatizado com imagens obtidas da internet e adicionar um texto relacionado
+robô para criar vídeo automatizado com imagens obtidas da internet e adicionar um texto relacionado</br>
 Fazer o upload para o youtube com as thumbnail
 
 
