@@ -1,15 +1,20 @@
 const readline = require('readline-sync')
-
+const robot = require('./robots/text.js')
+const robots = {
+    text: require('./robots/text.js')
+}
 
 /*função criada para solicitar o usuário: 
 O termo de pesquisa
 O Prefixo para o titulo
 */
-function start() {
+async function start() {
     const content = {}
 
     content.searchTerm = askAndReturnSearchTerm()
     content.prefix = askAndReturnPrefix()
+
+    await robots.text(content)
 
     //faz uma pergunta para o usuário
     function askAndReturnSearchTerm() {
